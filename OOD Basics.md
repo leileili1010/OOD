@@ -53,3 +53,7 @@ In programming, polymorphism is a phenomenon that allows an object to have sever
 
 ![alt text](image-3.png)
 
+![alt text](image-4.png)
+
+![alt text](image-5.png)
+
